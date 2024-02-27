@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lando478" alt="lando478" /></a> </p>
 
-- 🔭 I’m currently a mobile app consultant for IYT. **IYT+**
+- 🔭 I’m currently a mobile app consultant for Improve Your Tomorrow, Inc.
 
 - 📫 How to reach me **landandev12@g.ucla.edu**
 

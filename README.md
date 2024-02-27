@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Landan Devenecia</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate CS & Linguistics student at UCLA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lando478&label=Profile%20views&color=0e75b6&style=flat" alt="lando478" /> </p>
 
@@ -19,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lando478&show_icons=true&locale=en&layout=compact" alt="lando478" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lando478&show_icons=true&locale=en" alt="lando478" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lando478&" alt="lando478" /></p>
